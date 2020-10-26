@@ -1,0 +1,3 @@
+[submodule "vendor-intel-utils"]
+	path = vendor-intel-utils
+	url = https://github.com/projectceladon/vendor-intel-utils
